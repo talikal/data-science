@@ -1,0 +1,1041 @@
+1621691959068	geckodriver	INFO	Listening on 127.0.0.1:49293
+1621692186204	geckodriver	INFO	Listening on 127.0.0.1:49443
+1621692189316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileZeI9ow"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692192630	Marionette	INFO	Listening on port 49453
+1621692193050	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621697217345	Marionette	INFO	Stopped listening on port 49453
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+mozprofileyJ8uLt"
+1621692328397	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692331070	Marionette	INFO	Listening on port 49632
+1621692331139	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 927: Error: Connection is not open.
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 248: TypeError: this._builder is undefined
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1621697215397	Marionette	INFO	Stopped listening on port 49632
+ile?" (new Error("", "(unknown module)"))
+1621692785506	Marionette	INFO	Listening on port 49962
+1621692785854	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1621697215385	Marionette	INFO	Stopped listening on port 49962
+
+1621692826637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621697213936	Marionette	INFO	Stopped listening on port 50134
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilewN99qj"
+1621692893928	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621692897059	Marionette	INFO	Listening on port 50342
+1621692897102	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[Parent 11772, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2161: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+[Parent 11772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src[Parent 4500, IPC I/O Parent] W[Parent 11772, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621697215306	Marionette	INFO	Stopped listening on port 50342
+orker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2161: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofile6Toylq\protections.sqlite
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697217206	Marionette	INFO	Stopped listening on port 50597
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2161: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofileyeHmHN\protections.sqlite
+1621697212646	Marionette	INFO	Stopped listening on port 50832
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5073: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 2500, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697215387	Marionette	INFO	Stopped listening on port 51050
+nored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: GFX: D3D11 lock mutex abandoned
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: GFX: D3D11 lock mutex abandoned
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[Parent 3464, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2161: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 288: TypeError: this._builder is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1621697212828	Marionette	INFO	Stopped listening on port 51280
+1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697216773	Marionette	INFO	Stopped listening on port 51605
+nstore/SessionFile.jsm", 433))
+1621697212413	Marionette	INFO	Stopped listening on port 51534
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+le?" (new Error("", "(unknown module)"))
+1621693730684	Marionette	INFO	Listening on port 51946
+1621693731304	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697216443	Marionette	INFO	Stopped listening on port 51946
+rs\\Tali\\AppData\\Local\\Temp\\rust_mozprofileui3Vol"
+1621693784861	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693789822	Marionette	INFO	Listening on port 52104
+1621693789978	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697212914	Marionette	INFO	Stopped listening on port 52104
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693819140	Marionette	INFO	Listening on port 52193
+1621693819264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621697213449	Marionette	INFO	Stopped listening on port 52193
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileYWztsq"
+1621693881550	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693886771	Marionette	INFO	Listening on port 52401
+1621693887363	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 260, 170
+1621697213934	Marionette	INFO	Stopped listening on port 52401
+ionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621693994909	Marionette	INFO	Listening on port 52663
+1621693995474	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2161: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1621697215335	Marionette	INFO	Stopped listening on port 52663
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5073: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+ a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 74: uncaught exception: out of memory
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2161: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 288: TypeError: this._builder is undefined
+1621697215487	Marionette	INFO	Stopped listening on port 52868
+: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 288: TypeError: this._builder is undefined
+1621697212913	Marionette	INFO	Stopped listening on port 53206
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+or: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1621697213946	Marionette	INFO	Stopped listening on port 53407
+ists, new profile?" (new Error("", "(unknown module)"))
+1621694553746	Marionette	INFO	Listening on port 54151
+1621694554057	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 248: TypeError: this._builder is undefined
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1621697212403	Marionette	INFO	Stopped listening on port 54151
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5073: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+ne 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A004D,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1621697215485	Marionette	INFO	Stopped listening on port 54333
+warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621694647137	Marionette	INFO	Listening on port 54589
+1621694647207	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697215498	Marionette	INFO	Stopped listening on port 54589
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+ exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+Hit MOZ_CRASH([unhandlable oom] Failed to allocate elements while tenuring.) at /builds/worker/checkouts/gecko/js/src/vm/JSContext.cpp:1189
+[Parent 25852, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+[Parent 25852, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1621697165404	Marionette	INFO	Stopped listening on port 54855
+sive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 1105, 1226, 160, 438
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A004D,name=PContent::Msg_NotifyProcessPriorityChanged) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 297: TypeError: this._builder is undefined
+1621697213236	Marionette	INFO	Stopped listening on port 55106
+ught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1621697215348	Marionette	INFO	Stopped listening on port 55291
+no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofile3mF1Ug"
+1621694992875	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621695001018	Marionette	INFO	Listening on port 55488
+1621695001106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A006E,name=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A006C,name=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A006D,name=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0055,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697213928	Marionette	INFO	Stopped listening on port 55488
+ent slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2161: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1621697212384	Marionette	INFO	Stopped listening on port 55770
+this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697215417	Marionette	INFO	Stopped listening on port 55970
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621695326238	Marionette	INFO	Listening on port 56316
+1621695326513	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+[GFX1-]: Failed buffer for 0, 0, 1349, 1792
+1621697215264	Marionette	INFO	Stopped listening on port 56316
+le)"))
+1621695479135	Marionette	INFO	Listening on port 56649
+1621695479179	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[Parent 26652, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+1621697212822	Marionette	INFO	Stopped listening on port 56649
+nt slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+1621697215424	Marionette	INFO	Stopped listening on port 56857
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 5073: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914, line 74: uncaught exception: out of memory
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697215328	Marionette	INFO	Stopped listening on port 57147
+[GFX1]: Attempting to post to an invalid Compositor Thread
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2161: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofilew5Ty3G\protections.sqlite
+7000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697212720	Marionette	INFO	Stopped listening on port 57353
+JavaScript error: chrome://marionette/content/modal.js, line 118: NS_ERROR_UNEXPECTED: Component returned failure code: 0x8000ffff (NS_ERROR_UNEXPECTED) [nsIWindowMediator.getEnumerator]
+[GFX1]: Attempting to post to an invalid Compositor Thread
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 2161: TypeError: subject.QueryInterface is not a function
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofileF9coIX\protections.sqlite
+DCompositionSurface::BeginDraw failed: 0x8007000e
+[GFX1-]: Fallback (SW-)WR to Basic
+[GFX1-]: Compositors might be mixed (5,1)
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[GFX1-]: Failed buffer for 0, 0, 1349, 1664
+[Parent 32252, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource:///modules/WindowsJumpLists.jsm, line 248: TypeError: this._builder is undefined
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697215491	Marionette	INFO	Stopped listening on port 57614
+s Matched Content slot into a non-zero width div container.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A006E,name=PContent::Msg_SuspendInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A006C,name=PContent::Msg_FlushInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A006D,name=PContent::Msg_ResumeInputEventQueue) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0055,name=PContent::Msg_Shutdown) Channel error: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x3A0132,name=PContent::Reply_GetModulesTrust) Channel error: cannot send/recv
+
+[Parent 7696, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 7696, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 7696, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+[Parent 7696, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/cJavaScript error: resource:///modules/WindowsJumpLists.jsm, line 297: TypeError: this._builder is undefined
+[Parent 8004, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NS_ERROR_NOT_AVAILABLE
+1621697212903	Marionette	INFO	Stopped listening on port 58373
+is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697212620	Marionette	INFO	Stopped listening on port 58012
+. Please ensure to put this Matched Content slot into a non-zero width div container.
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore/SessionFile.jsm", 433))
+1621697215309	Marionette	INFO	Stopped listening on port 58691
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621696800975	Marionette	INFO	Listening on port 58966
+1621696801181	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: https://googleads.g.doubleclick.net/pagead/ads?client=ca-pub-1883951513778205&output=html&h=422&slotname=5146546373&adk=1502348732&adf=1490408370&pi=t.ma~as.5146546373&w=704&cr_col=4&cr_row=2&fwrn=2&lmt=1621696817&rafmt=9&psa=0&format=704x422&url=http%3A%2F%2Fpopvinyls.com%2Fpopvinyls-com-funko-pop-checklists%2F&flash=0&crui=image_stacked&fwr=0&wgl=1&dt=1621696812039&bpp=6&bdt=9626&idt=4639&shv=r20210517&cbv=%2Fr20190131&ptt=9&saldr=aa&abxe=1&prev_fmts=728x90%2C0x0&nras=1&correlator=279028751292&frm=20&pv=1&ga_vid=1274026274.1621696811&ga_sid=1621696818&ga_hid=1488074010&ga_fc=0&u_tz=180&u_his=1&u_java=0&u_h=768&u_w=1366&u_ah=728&u_aw=1366&u_cd=24&u_nplug=0&u_nmime=0&adx=35&ady=1737&biw=1349&bih=654&scr_x=0&scr_y=0&eid=31060615%2C31060710&oid=3&pvsid=4267731816183737&pem=972&eae=0&fc=896&brdim=-8%2C-8%2C-8%2C-8%2C1366%2C0%2C1382%2C744%2C1366%2C654&vis=1&rsz=%7C%7CeEbr%7C&abl=CS&pfx=0&fu=128&bc=23&ifi=3&uci=a!3&btvi=1&fsb=1&xpc=noNn9YU0XB&p=http%3A//popvinyls.com&dtd=5724, line 1: ReferenceError: mys is not defined
+[Child 6300, IPC I/O Child] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:544
+console.error: services.settings: 
+  security-state/intermediates Signature failed  TypeError: NetworkError when attempting to fetch resource.
+console.error: services.settings: 
+  Message: TypeError: NetworkError when attempting to fetch resource.
+  Stack:
+    _validateCollectionSignature@resource://services-settings/RemoteSettingsClient.jsm:830:36
+_importChanges@resource://services-settings/RemoteSettingsClient.jsm:928:20
+observe@resource://gre/modules/AsyncShutdown.jsm:575:16
+
+console.warn: services.settings: security-state/onecrl sync interrupted by shutdown
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofileq7vdqe\protections.sqlite
+[Parent 8724, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/baseconsole.error: (new Error(console.error: (new Error("SessionFile is closed", "resource:///modules/sessionstore1621697214028	Marionette	INFO	Stopped listening on port 59605
+A content process crashed and MOZ_CRASHREPORTER_SHUTDOWN is set, shutting down
+mp\\rust_mozprofilepgLynY"
+1621697140967	Marionette	INFO	Marionette enabled
+out of memory: 0x0000000000000FF0 bytes requested
+out of memory: 0x0000000000000FF0 bytes requested
+out of memory: 0x0000000000000FF0 bytes requested
+out of memory: 0x00000000000018D8 bytes requested
+out of memory: 0x0000000000000FF0 bytes requestedout of memory: 0x0000000000000FF0 bytes requested
+out of memory: 0x0000000000000FF0 bytes requested
+
+out of memory: 0x0000000000000FF0 bytes requested
+1621697240312	geckodriver	INFO	Listening on 127.0.0.1:59889
+1621697243412	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileCaCy5G"
+1621697243975	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621697246545	Marionette	INFO	Listening on port 59898
+1621697246629	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+1621697251659	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'loading'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Tali\AppData\Local\Temp\rust_mozprofileCaCy5G\bookmarkbackups\bookmarks-2021-05-22_11_76ChH+2zu8uBsUzZCkCFzw==.jsonlz4) because it does not exist
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621748420736	Marionette	INFO	Stopped listening on port 59898
+gError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621748419256	Marionette	INFO	Stopped listening on port 60075
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileb8j0UQ"
+1621697723407	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621697725406	Marionette	INFO	Listening on port 60320
+1621697725743	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621748417790	Marionette	INFO	Stopped listening on port 60320
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+tte enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621697897465	Marionette	INFO	Listening on port 60566
+1621697897635	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: uncaught exception: undefined
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1621748412214	Marionette	INFO	Stopped listening on port 60566
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofile644dXq"
+1621698097209	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621698099211	Marionette	INFO	Listening on port 60825
+1621698099518	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+1621698607287	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Tali\AppData\Local\Temp\rust_mozprofile644dXq\bookmarkbackups\bookmarks-2021-05-22_11_CDvkgMk839CGFH2Rp+UrtA==.jsonlz4) because it does not exist
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1621748414361	Marionette	INFO	Stopped listening on port 60825
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ ensure to put this Matched Content slot into a non-zero width div container.
+1621698655758	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, reason: error
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NotFoundError: Could not move source file(C:\Users\Tali\AppData\Local\Temp\rust_mozprofilec3HiHh\bookmarkbackups\bookmarks-2021-05-22_11_UgBhWeNQ69dNekxxCSH1IQ==.jsonlz4) because it does not exist
+1621748415987	Marionette	INFO	Stopped listening on port 61064
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621951044195	geckodriver	INFO	Listening on 127.0.0.1:53313
+1621951047351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilevSf3XJ"
+1621951048879	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621951052443	Marionette	INFO	Listening on port 53322
+1621951052732	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+1621951099407	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1621951918938	Marionette	INFO	Stopped listening on port 53322
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+rionette	INFO	Listening on port 53541
+1621951207775	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: https://s0.2mdn.net/ads/studio/cached_libs/easeljs_0.8.1_58add2e69ca7fbe25e8f82a2b5f6a510_min.js, line 12: TypeError: b is undefined
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofileRlVSBx\protections.sqlite
+1621951918713	Marionette	INFO	Stopped listening on port 53541
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+o settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621951692487	Marionette	INFO	Listening on port 53861
+1621951692995	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofileBjg82a\protections.sqlite
+1621951918718	Marionette	INFO	Stopped listening on port 53861
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621951923168	geckodriver	INFO	Listening on 127.0.0.1:54223
+1621951926196	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilevP0mCE"
+1621951926729	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621951929547	Marionette	INFO	Listening on port 54231
+1621951929917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofilevP0mCE\protections.sqlite
+1621953963782	Marionette	INFO	Stopped listening on port 54231
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "(unknown module)"))
+1621952227602	Marionette	INFO	Listening on port 54597
+1621952227726	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofileuxcHWp\protections.sqlite
+1621953963496	Marionette	INFO	Stopped listening on port 54597
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+e	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofileoc5lv4\protections.sqlite
+1621953963441	Marionette	INFO	Stopped listening on port 54865
+te enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1621952775248	Marionette	INFO	Listening on port 55153
+1621952775476	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofileoX0VPM\protections.sqlite
+1621953963816	Marionette	INFO	Stopped listening on port 55153
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "(unknown module)"))
+1621952844880	Marionette	INFO	Listening on port 55375
+1621952845292	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofilef5Tl4q\protections.sqlite
+1621953963686	Marionette	INFO	Stopped listening on port 55375
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "(unknown module)"))
+1621953298150	Marionette	INFO	Listening on port 55615
+1621953298410	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofileTJ6iky\protections.sqlite
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1621953963670	Marionette	INFO	Stopped listening on port 55615
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: http://popvinyls.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.3.2, line 2: ReferenceError: jQuery is not defined
+JavaScript error: http://popvinyls.com/wp-content/themes/gambit/assets/js/jquery.flexslider-min.js?ver=2.6.0, line 5: ReferenceError: jQuery is not defined
+JavaScript error: http://popvinyls.com/wp-content/themes/gambit/assets/js/slider.js?ver=20190910, line 9: ReferenceError: jQuery is not defined
+JavaScript error: http://popvinyls.com/wp-content/themes/gambit/assets/js/navigation.js?ver=20200822, line 122: ReferenceError: jQuery is not defined
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1621953963430	Marionette	INFO	Stopped listening on port 55923
+1622302182654	geckodriver	INFO	Listening on 127.0.0.1:50765
+1622302185699	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofile6sYs65"
+1622302186678	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622302190308	Marionette	INFO	Listening on port 50776
+1622302190546	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofile6sYs65\protections.sqlite
+1622302817401	Marionette	INFO	Stopped listening on port 50776
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622303167168	geckodriver	INFO	Listening on 127.0.0.1:65136
+1622303170202	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileq9Shrm"
+1622303171145	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622303174056	Marionette	INFO	Listening on port 65146
+1622303174465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 217: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306224202	Marionette	INFO	Stopped listening on port 65146
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilec245so"
+1622303395287	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622303398497	Marionette	INFO	Listening on port 65465
+1622303398973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306226961	Marionette	INFO	Stopped listening on port 65465
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofile54vBoh"
+1622303609737	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622303613350	Marionette	INFO	Listening on port 49365
+1622303613382	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306225141	Marionette	INFO	Stopped listening on port 49365
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileTc4b6n"
+1622303688478	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622303691576	Marionette	INFO	Listening on port 49624
+1622303692110	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306225992	Marionette	INFO	Stopped listening on port 49624
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileuQrve3"
+1622303881413	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622303884268	Marionette	INFO	Listening on port 50073
+1622303884510	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306227196	Marionette	INFO	Stopped listening on port 50073
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileUhYdXO"
+1622303937729	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622303940707	Marionette	INFO	Listening on port 50299
+1622303940949	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306224544	Marionette	INFO	Stopped listening on port 50299
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileRIZCcU"
+1622303976246	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622303979347	Marionette	INFO	Listening on port 50503
+1622303979494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306225010	Marionette	INFO	Stopped listening on port 50503
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilea1xAcb"
+1622304049623	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622304052732	Marionette	INFO	Listening on port 50832
+1622304053260	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 22608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+[Parent 22608, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1622306225158	Marionette	INFO	Stopped listening on port 50832
+get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622304137538	Marionette	INFO	Listening on port 51086
+1622304137819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306226476	Marionette	INFO	Stopped listening on port 51086
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileQP0EEI"
+1622304165940	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622304169038	Marionette	INFO	Listening on port 51240
+1622304169100	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306225808	Marionette	INFO	Stopped listening on port 51240
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileeXZ7yk"
+1622304222734	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622304226026	Marionette	INFO	Listening on port 51440
+1622304226271	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622306226848	Marionette	INFO	Stopped listening on port 51440
+ "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilerP1uw9"
+1622304264141	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622304267989	Marionette	INFO	Listening on port 51652
+1622304268412	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306224536	Marionette	INFO	Stopped listening on port 51652
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileGkP3K7"
+1622304312418	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622304315579	Marionette	INFO	Listening on port 51867
+1622304315692	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306224807	Marionette	INFO	Stopped listening on port 51867
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileQQdtEH"
+1622304383832	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622304387183	Marionette	INFO	Listening on port 52164
+1622304387242	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306225549	Marionette	INFO	Stopped listening on port 52164
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileX4ezKE"
+1622304726683	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622304730093	Marionette	INFO	Listening on port 53191
+1622304730296	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306225980	Marionette	INFO	Stopped listening on port 53191
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofile2406Zi"
+1622304772159	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622304775374	Marionette	INFO	Listening on port 53401
+1622304775784	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306225570	Marionette	INFO	Stopped listening on port 53401
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofile0PWUHz"
+1622304960356	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622304963615	Marionette	INFO	Listening on port 53870
+1622304963984	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306224194	Marionette	INFO	Stopped listening on port 53870
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilewLksC5"
+1622305045258	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622305048312	Marionette	INFO	Listening on port 54196
+1622305048830	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306224572	Marionette	INFO	Stopped listening on port 54196
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilezjDb8x"
+1622305146356	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622305149289	Marionette	INFO	Listening on port 54431
+1622305149465	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306226038	Marionette	INFO	Stopped listening on port 54431
+C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileLwWzVO"
+1622305295298	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622305298704	Marionette	INFO	Listening on port 54787
+1622305298860	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306224332	Marionette	INFO	Stopped listening on port 54787
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileh7LfI6"
+1622305420529	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622305424084	Marionette	INFO	Listening on port 55105
+1622305424163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622306225753	Marionette	INFO	Stopped listening on port 55105
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileZAGPUT"
+1622305569735	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622305573449	Marionette	INFO	Listening on port 55331
+1622305573965	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622306225433	Marionette	INFO	Stopped listening on port 55331
+2305635338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileSi1KZW"
+1622305635896	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622305639138	Marionette	INFO	Listening on port 55517
+1622305639715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+1622306226788	Marionette	INFO	Stopped listening on port 55517
+d" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilebNjKfI"
+1622305690670	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622305695271	Marionette	INFO	Listening on port 55748
+1622305695596	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622306226139	Marionette	INFO	Stopped listening on port 55748
+2305750081	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileMRRnxI"
+1622305750878	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622305754191	Marionette	INFO	Listening on port 56108
+1622305754452	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622306224836	Marionette	INFO	Stopped listening on port 56108
+2305800506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilen4v9Iw"
+1622305801202	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622305804469	Marionette	INFO	Listening on port 56344
+1622305804811	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.error: Region.jsm: "Error fetching region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 772))
+console.error: Region.jsm: "Failed to fetch region" (new Error("TIMEOUT", "resource://gre/modules/Region.jsm", 419))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 575: NotFoundError: No such JSWindowActor 'MarionetteEvents'
+WARNING: At least one completion condition is taking too long to complete. Conditions: [{"name":"ContentParent: id=1c3fa708800","state":{"remoteTypePrefix":"web"},"filename":"/builds/worker/checkouts/gecko/dom/ipc/ContentParent.cpp","lineNumber":3540,"stack":["resource://gre/modules/nsAsyncShutdown.jsm:addBlocker:162","chrome://global/content/elements/browser-custom-element.js:get loadContext:372","chrome://global/content/elements/browser-custom-element.js:construct:1005","chrome://global/content/elements/browser-custom-element.js:connectedCallback:310","chrome://browser/content/tabbrowser.js:_setupInitialBrowserAndTab:414","chrome://browser/content/ta1622306225035	Marionette	INFO	Stopped listening on port 56738
+ContentLoaded:1761"]}] Barrier: profile-before-change
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0112,name=PContent::Msg_AccumulateChildHistograms) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x3A0117,name=PContent::Msg_RecordDiscardedData) Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1622306225315	Marionette	INFO	Stopped listening on port 56344
+Stopped listening on port 56967
+2306059237	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilezgoaUN"
+1622306059922	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622306063110	Marionette	INFO	Listening on port 57369
+1622306063447	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622306224088	Marionette	INFO	Stopped listening on port 57369
+1622306231620	geckodriver	INFO	Listening on 127.0.0.1:57917
+1622306234655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileC2kVC3"
+1622306235422	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1622306238056	Marionette	INFO	Listening on port 57932
+1622306238339	Marionette	WARN	TLS certificate errors will be ignored for this session
+1622306462587	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1622310444397	Marionette	INFO	Stopped listening on port 57932
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624018666298	geckodriver	INFO	Listening on 127.0.0.1:62720
+1624018669431	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofile1YTySa"
+1624018671349	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624018674324	Marionette	INFO	Listening on port 62729
+1624018674773	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624019010831	Marionette	INFO	Stopped listening on port 62729
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileegRIKj"
+1624018946481	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624018949042	Marionette	INFO	Listening on port 58775
+1624018949180	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624019010780	Marionette	INFO	Stopped listening on port 58775
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624019127546	geckodriver	INFO	Listening on 127.0.0.1:63897
+1624019130647	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilegvN1QU"
+1624019131519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624019134212	Marionette	INFO	Listening on port 63905
+1624019134360	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624019285413	Marionette	INFO	Stopped listening on port 63905
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624019341033	geckodriver	INFO	Listening on 127.0.0.1:62942
+1624019344052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilehafayS"
+1624019344450	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624019346969	Marionette	INFO	Listening on port 62950
+1624019347253	Marionette	WARN	TLS certificate errors will be ignored for this session
+1624019409598	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624020600909	Marionette	INFO	Stopped listening on port 62950
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilemDbRRc"
+1624019453614	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624019456388	Marionette	INFO	Listening on port 63249
+1624019456858	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624020599470	Marionette	INFO	Stopped listening on port 63249
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624021009539	geckodriver	INFO	Listening on 127.0.0.1:55469
+1624021012615	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileSzWJOV"
+1624021013011	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624021015722	Marionette	INFO	Listening on port 55479
+1624021015793	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624045492511	Marionette	INFO	Stopped listening on port 55479
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilejJoPPc"
+1624021037399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624021040238	Marionette	INFO	Listening on port 51107
+1624021040731	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofilejJoPPc\protections.sqlite
+1624045492554	Marionette	INFO	Stopped listening on port 51107
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624045622799	geckodriver	INFO	Listening on 127.0.0.1:49777
+1624045625884	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofile0Ea8uJ"
+1624045626519	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624045629409	Marionette	INFO	Listening on port 49786
+1624045629607	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624055164092	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624059351411	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624061385065	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+[Parent 7836, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1624135175893	Marionette	INFO	Stopped listening on port 49786
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+5166562	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624135168756	Marionette	INFO	Listening on port 62888
+1624135168883	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624136642392	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624136866853	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624138670597	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1624143018206	Marionette	INFO	Stopped listening on port 62888
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624182236833	geckodriver	INFO	Listening on 127.0.0.1:55172
+1624182239875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileISD1FP"
+1624182241057	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624182244194	Marionette	INFO	Listening on port 55182
+1624182244716	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: resource://gre/modules/Sqlite.jsm, line 1030: Error: Sqlite.jsm has been shutdown. Cannot open connection to: C:\Users\Tali\AppData\Local\Temp\rust_mozprofileISD1FP\protections.sqlite
+1624182557057	Marionette	INFO	Stopped listening on port 55182
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624182579904	geckodriver	INFO	Listening on 127.0.0.1:55426
+1624182583033	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofile6eon7h"
+1624182583503	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624182585879	Marionette	INFO	Listening on port 55434
+1624182586261	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624184492061	Marionette	INFO	Stopped listening on port 55434
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilewktWvb"
+1624184488747	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624184490901	Marionette	INFO	Listening on port 52750
+1624184491082	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624185446315	Marionette	INFO	Stopped listening on port 52750
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624186152562	geckodriver	INFO	Listening on 127.0.0.1:51730
+1624186155593	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofile8xiYoT"
+1624186155919	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624186157797	Marionette	INFO	Listening on port 65055
+1624186158279	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624198156019	Marionette	INFO	Stopped listening on port 65055
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624198166018	geckodriver	INFO	Listening on 127.0.0.1:56931
+1624198169069	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileQwhaxf"
+1624198169597	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624198171840	Marionette	INFO	Listening on port 62287
+1624198172252	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624200274325	Marionette	INFO	Stopped listening on port 62287
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+"--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofileg2Qahl"
+1624200268077	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624200269959	Marionette	INFO	Listening on port 52795
+1624200270455	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624204349778	Marionette	INFO	Stopped listening on port 52795
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624361881566	geckodriver	INFO	Listening on 127.0.0.1:59544
+1624361884751	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofilen6qTtU"
+1624361886155	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624361889550	Marionette	INFO	Listening on port 59553
+1624361890106	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624362810205	Marionette	INFO	Stopped listening on port 59553
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1624362932700	geckodriver	INFO	Listening on 127.0.0.1:57058
+1624362935803	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Tali\\AppData\\Local\\Temp\\rust_mozprofile4eIMwd"
+1624362936849	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1624362939567	Marionette	INFO	Listening on port 57068
+1624362940012	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js, line 220: uncaught exception: TagError: adsbygoogle.push() error: Invalid responsive width from Matched Content slot 8992604529: 0. Please ensure to put this Matched Content slot into a non-zero width div container.
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 718: Error: Phase "Sqlite.jsm: wait until all connections are closed" is finished, it is too late to register completion condition "protections.sqlite#0: waiting for shutdown"
+1624450787258	Marionette	INFO	Stopped listening on port 57068
+ Error("", "(unknown module)"))
+1624363120361	Marionette	INFO	Listening on port 57231
+1624363120639	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1624450789204	Marionette	INFO	Stopped listening on port 57231
